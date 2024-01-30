@@ -1,5 +1,4 @@
 Facture 233
 
+Total : 1983$
 Frais de transport 14$
-
-Total : 33504$
